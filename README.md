@@ -41,7 +41,8 @@
 
 - 🌐 [En desarrollo](https://www.joseborras.dev)
 - 📧 jmborrasrodriguez@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/jose-manuel-borras-rodriguez-a3366a303/)) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/jose-manuel-borras-rodriguez-a3366a303/))
+- [![CV](https://img.shields.io/badge/CV-Descargar-informational?style=for-the-badge&logo=readthedocs)](https://drive.google.com/file/d/1xwidIvPh8NB6_tQv1nc9VGQI9Abm64AI/view?usp=drive_link)
 
 ---
 
