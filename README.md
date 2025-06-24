@@ -39,9 +39,9 @@
 
 ## 📫 Cómo contactar conmigo
 
-- 🌐 [En desarrollo](https://www.joseborras.dev)
-- 📧 jmborrasrodriguez@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/jose-manuel-borras-rodriguez-a3366a303/))
+[![Website](https://img.shields.io/badge/Web-joseborras.dev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.joseborras.dev)
+[![Email](https://img.shields.io/badge/Email-jmborrasrodriguez@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmborrasrodriguez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-manuel-borras-rodriguez-a3366a303/)
 - <a href="https://drive.google.com/file/d/1xwidIvPh8NB6_tQv1nc9VGQI9Abm64AI/view?usp=drive_link" target="_blank">📄 Descargar mi CV</a>
 
 
